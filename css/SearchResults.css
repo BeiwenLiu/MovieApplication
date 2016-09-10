@@ -1,0 +1,55 @@
+body {
+    background-image: url("../images/background4.jpg");
+     background-size: cover;
+}
+
+h1 {
+    border-radius:10px;
+    font-size:30px;
+    color:white;
+    width:100%;
+    background: rgba(5, 5, 5, 0.9);
+    padding:20px;
+    border:1px solid white;
+}
+
+#Format {
+    border: 3px solid white;
+    padding:5px;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.border {
+	background: rgba(64, 64, 64, 0.5);
+    color:white;
+}
+
+.save {
+	margin-top: 5%;
+	float:right;
+    color:white;
+}
+
+
+#next {
+	margin-left:5%;
+	color:white;
+    background: rgba(64, 64, 64, 0.5);
+    text-decoration: none;
+    font-size:20px;
+    border-style: outset;
+    border-color:gray;
+    padding:5px;
+    border-radius:10px;
+}
+
+#next:hover {
+	background: rgba(66, 211, 241, 0.7);
+	color:white;
+}
+
+#error {
+    color:white;
+    margin-left:44%;
+}

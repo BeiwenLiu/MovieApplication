@@ -1,0 +1,7 @@
+<?php for ($x = 0; $x < sizeof($something)/4; $x++) {?>
+                    <tr>
+                <?php for ($y = 0; $y < 4; $y++) {?>
+                <td> <input type ="Submit" class="movieButton" name="<?php echo $something[$y+$x*4];?>" value="<?php echo $something[$y+$x*4];?>"> </td>                 
+                <?php }?>
+                    </tr>
+                <?php }?>

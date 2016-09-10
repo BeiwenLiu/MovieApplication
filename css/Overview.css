@@ -1,0 +1,73 @@
+body {
+    background-image: url("../images/background4.jpg");
+     background-size: cover;
+}
+
+.title {
+	border-radius:10px;
+    font-size:30px;
+    color:white;
+    width:100%;
+    background: rgba(5, 5, 5, 0.9);
+    padding:20px;
+    border:1px solid white;
+}
+
+#OverviewDetails {
+    background: rgba(5, 5, 5, 0.5);
+    width: 100%;
+    border: 3px solid white;
+    padding:10px;
+    color:white;
+    font-size:20px;
+}
+
+.subtitle {
+    font-size:30px;
+    border-bottom: 1px solid white;
+    margin-bottom:1%;
+}
+
+#cast {
+    background: rgba(5, 5, 5, 0.5);
+    width: 98%;
+    padding:10px;
+    margin-top:2%;
+    font-size:20px;
+    border: 3px solid white;
+    color:white;
+    margin-bottom:2%;
+}
+
+#role {
+    background: rgba(5, 5, 5, 0.5);
+	display: inline-block;
+    width: 45%;
+    height: 50%;
+    margin: 10px;
+    border: 3px solid white;
+    float:right;
+    color:white;
+}
+
+#back {
+	display: inline-block;
+	 width: 45%;
+    height: 10%;
+}
+
+#backButton:hover {
+    background: rgba(66, 211, 241, 0.7);
+    color:white;
+}
+
+#backButton {
+    color:white;
+   background: rgba(64, 64, 64, 0.5);
+    text-decoration: none;
+    font-size:20px;
+    border-style: outset;
+    border-color:white;
+    padding:5px;
+    border-radius:10px;
+}

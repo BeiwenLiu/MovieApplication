@@ -1,0 +1,70 @@
+body {
+    background-image: url("../images/background4.jpg");
+     background-size: cover;
+}
+
+h1 {
+    border-radius:10px;
+    font-size:30px;
+    color:white;
+    width:100%;
+    background: rgba(5, 5, 5, 0.9);
+    padding:20px;
+    border:1px solid white;
+}
+
+h2 {
+    border-radius:10px;
+    font-size:20px;
+    color:white;
+    width:70%;
+    background: rgba(5, 5, 5, 0.9);
+    padding:5px;
+    border:1px solid white;
+}
+
+h5 {
+	color:white;
+}
+
+.text1 {
+	font-size:35px;
+	margin-left:2%;
+	border-radius:5px;
+	margin-bottom:10px;
+	border:1px solid white;
+	padding:5px;
+	color:white;
+}
+
+.text {
+	color:white;
+	font-size:35px;
+}
+
+#line {
+	height:4px;
+	width:100%;
+	background-color:black;
+	margin-bottom: 2%;
+}
+
+#Next {
+	color:white;
+    background: rgba(64, 64, 64, 0.5);
+    text-decoration: none;
+    font-size:20px;
+    border-style: outset;
+    border-color:white;
+    padding:5px;
+    border-radius:10px;
+}
+
+#Next:hover {
+	background: rgba(66, 211, 241, 0.7);
+	color:white;
+}
+
+#message {
+	color:white;
+}

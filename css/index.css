@@ -1,0 +1,160 @@
+body {
+    background-image: url("../images/background4.jpg");
+     background-size: cover;
+}
+
+h1 {
+    font-size:40px;
+}
+
+h2 {
+    border-radius:10px;
+    font-size:30px;
+    color:white;
+    width:15%;
+    background: rgba(5, 5, 5, 0.9);
+    padding:20px;
+}
+
+#footer {
+    margin-bottom:0;
+}
+.header {
+    width:99.7%;
+    padding:1px;
+    background-color:black;
+    color:white;
+    text-align : center;
+    font-family: "SIMPSON";
+    background: rgba(5, 5, 5, 0.7);
+    margin-bottom:5%;
+}
+
+#Format {
+    border: 5px solid white;
+    width: 60%;
+    margin: 0 auto;
+    background: rgba(64, 64, 64, 0.3);
+}
+
+.label {
+    color:white;
+    position: relative;
+    margin: 3%;
+    font-size:20px;
+}
+
+.field {
+    color:black;
+    position: relative;
+    border-radius: 4px;
+    margin-left:3%;
+    width: 50%;
+    margin-bottom: 5%
+}
+
+.submit {
+    font-family: "SIMPSON";
+    margin-top:5%;
+    margin-left:3%;
+    margin-bottom: 5%;
+    color:black;
+    background-color: white;
+    text-decoration: none;
+    font-size:20px;
+    border-style: outset;
+    border-color:black;
+    padding:10px;
+    border-radius:10px;
+}
+
+.submit:hover {
+    background: rgba(66, 211, 241, 0.7);
+    color:white;
+}
+
+#Create {
+    margin-left:40%;
+}
+
+#tableStyle{
+    padding:20px;
+    margin: auto;
+    width:50%;
+    background: rgba(5, 5, 5, 0.8);
+    margin-bottom:5%;
+}
+
+tr td {
+    
+}
+
+.movieButton {
+    width: 100%;
+    height: 100px;
+
+    color:white;
+    background: rgba(3, 81, 184, 0.2);
+    text-decoration: none;
+    font-size:20px;
+    padding:5px;
+    border-radius:10px;
+}
+
+.movieButton:hover {
+    background: rgba(66, 211, 241, 0.7);
+    color:white;
+}
+
+#line {
+    width: 100%;
+    height:10px;
+    background-color:black;
+    border-radius:10px;
+}
+
+.Next {
+    color:black;
+    text-decoration: none;
+    font-size:20px;
+    border-style: outset;
+    border-color:white;
+    border-radius:10px;
+    float:left;
+}
+
+.Next1 {
+    color:black;
+    text-decoration: none;
+    font-size:20px;
+    border-style: outset;
+    border-color:white;
+    border-radius:10px;
+    float:right;
+}
+
+
+#welcome {
+    font-size:50px;
+    border:1px solid white;
+    width:80%;
+    padding:10px;
+    border-radius:20px;
+    background: rgba(5, 5, 5, 0.9);
+    color:white;
+}
+
+#center {
+    margin-top:10%;
+}
+
+#errorMessage {
+    color:white;
+    background:red;
+    padding:10px;
+    border-radius:10px;
+}
+
+.border{
+    border:1px solid white;
+}
